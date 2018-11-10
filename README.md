@@ -2,27 +2,25 @@
 
 A Technology Blog built following JAMstack Architecure.
 
-Now what is JAM Stack?
+    Now what is JAM Stack?
 
- |- J - Javascript -  Any dynamic programming is handled by JavaScript, running entirely on the client. 
-        This could be any frontend framework, library, or even vanilla JavaScript.
- |- A - API's - All server-side processes or database actions are done by APIs, accessed over HTTPS with JavaScript [See AJAX - References ].
-              
-              These can be custom-built or leverage third-party services.
- |- M - Markup - Basically a template to start upon.
+    |- J - Javascript -  Any dynamic programming is handled by JavaScript, running entirely on the client. 
+           This could be any frontend framework, library, or even vanilla JavaScript.
+    |- A - API's - All server-side processes or database actions are done by APIs, accessed over HTTPS with JavaScript [See AJAX - References]              These can be custom-built or leverage third-party services.
+    |- M - Markup - Basically a template to start upon.
 
-So JAM stack architecture essentially means we are letting API's do the heavy lifting shitty work[ Just kidding :p]
+    So JAM stack architecture essentially means we are letting API's do the heavy lifting shitty work[ Just kidding :p]
 
-Now What is Gatsby?????
+    Now What is Gatsby?????
 
- No tension, lets see. 
+    No tension, lets see. 
 
-   Gatsby is a static site generator.
+      Gatsby is a static site generator.
 
-    | - What the F*** is that?
-           | - It serves the server HTML from Markdown or JSON etc.
-               |- What is Markdown?
-                  |- To customise your text you use three ways:- 
+             | - What the F*** is that?
+                | - It serves the server HTML from Markdown or JSON etc.
+                  |- What is Markdown?
+                    |- To customise your text you use three ways:- 
                       | - Editor WYSIWYG - What you see is what you get editors - Basically B button makes thongs Bold, 
                       | - HTML - <b>Bold Text</b>
                       | - Markdown - **Bold Text** - sort like whatsap or stack overflow
