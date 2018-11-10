@@ -19,7 +19,7 @@ Now What is Gatsby?????
 
    Gatsby is a static site generator.
 
-      | - What the F*** is that?
+    | - What the F*** is that?
            | - It serves the server HTML from Markdown or JSON etc.
                |- What is Markdown?
                   |- To customise your text you use three ways:- 
@@ -30,7 +30,7 @@ Now What is Gatsby?????
            | - Now Gatsby takes Markdown and gives to GRAPHQL which then gives the website to view - sorta like run time compiling. 
            | - It uses ReactJS and GraphQL!!!
 
-     | - What is GraphQL?
+    | - What is GraphQL?
            |- It is a Query Language that is used to talk to your API and give stuff to the client side;A bridge betwen client and server side.
         
     | - Gatsby Flow vs CMS flow:
@@ -41,19 +41,20 @@ Now What is Gatsby?????
     |- It uses markdown, 
     |- GraphQL - Query Language.
 
-Our Work Flow : 
-    | - Trello - Project Management
-    | - Github - Code Management
+    Our Work Flow : 
+        | - Trello - Project Management
+        | - Github - Code Management
 
-References:
-    | - https://medium.com/@TheJesseLewis/how-to-pull-data-from-json-apis-with-jquery-and-ajax-when-you-re-a-totes-noob-d6b6349cd21f
-    | - https://www.youtube.com/watch?v=TJ09SYDuvfo - Gatsby.js
-    | - https://www.makeuseof.com/tag/markdown-4-reasons-learn-now/ - Markdown
-    | - https://www.youtube.com/watch?v=VjXb3PRL9WI - GraphQL
+    References:
 
-Interested in joining?
-    Ping us at :
-    | - dj30c.1@gmail.com.
-    | - itsmeabhilashgk@gmail.com 
-    | - aniruddh1297@gmail.com
+        | - https://medium.com/@TheJesseLewis/how-to-pull-data-from-json-apis-with-jquery-and-ajax-when-you-re-a-totes-noob-d6b6349cd21f
+        | - https://www.youtube.com/watch?v=TJ09SYDuvfo - Gatsby.js
+        | - https://www.makeuseof.com/tag/markdown-4-reasons-learn-now/ - Markdown
+        | - https://www.youtube.com/watch?v=VjXb3PRL9WI - GraphQL
+
+    Interested in joining?
+         Ping us at :
+            | - dj30c.1@gmail.com.
+            | - itsmeabhilashgk@gmail.com 
+            | - aniruddh1297@gmail.com
      
