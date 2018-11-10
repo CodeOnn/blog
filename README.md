@@ -30,7 +30,7 @@ Now What is Gatsby?????
            | - Now Gatsby takes Markdown and gives to GRAPHQL which then gives the website to view - sorta like run time compiling. 
            | - It uses ReactJS and GraphQL!!!
 
-    | - What is GraphQL?
+     | - What is GraphQL?
            |- It is a Query Language that is used to talk to your API and give stuff to the client side;A bridge betwen client and server side.
         
 | - Gatsby Flow vs CMS flow:
